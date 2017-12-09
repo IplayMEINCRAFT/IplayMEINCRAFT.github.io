@@ -17,5 +17,5 @@ Having trouble still? will if so... your stuck.... this is what i normally do so
 
 **Some Generator Websites I know of**
 
-1. [Mcstacker](https://www.mcstacker.bimbimma.com)
-2. [MinecraftTools](https://www.minecraft.tools)
+1. [Mcstacker](https://mcstacker.bimbimma.com)
+2. [MinecraftTools](https://minecraft.tools)
