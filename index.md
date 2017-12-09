@@ -1,6 +1,6 @@
 ## Welcome to IplayMEINCRAFT.github.io
 
-You can use the [editor on GitHub](https://github.com/IplayMEINCRAFT/IplayMEINCRAFT.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Just to be a little sellout (because I need some money) go visit my youtube channel FurretDude where you will find lots of minecraft gaming videos. thanks and cya later =D - Furret
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
