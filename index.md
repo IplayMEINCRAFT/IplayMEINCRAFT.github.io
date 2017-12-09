@@ -1,6 +1,6 @@
 ## Welcome to IplayMEINCRAFT
 
-Just to be a little sellout (because I need some money) go visit my youtube channel FurretDude where you will find lots of minecraft gaming videos. thanks and cya later =D - Furret
+Just to be a little sellout (because I need some money) go visit my youtube channel [FurretDude](https://m.youtube.com/channel/UC6abosgQrwKbN2FGm_31uYQ) where you will find lots of minecraft gaming videos. thanks and cya later =D - Furret
 
 ### Let's learn some commands
 
