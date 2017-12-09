@@ -18,4 +18,4 @@ Having trouble still? will if so... your stuck.... this is what i normally do so
 **Some Generator Websites I know of**
 
 1. [Mcstacker](https://mcstacker.bimbimma.com)
-2. [MinecraftTools](https://minecraft.tools)
+2. [MinecraftTools](http://minecraft.tools)
