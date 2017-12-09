@@ -10,9 +10,10 @@ I would go out of my way and teach you guys step by step but i think that the mi
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Help, Help! My commands arent working! D=
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IplayMEINCRAFT/IplayMEINCRAFT.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Hey! so i know what your thinking... "My commands arent working and i have no idea what to do... TEACH ME STUFFFFFFF!" so im going to give you guys the laziest way to do things ever! put things on other people! Basicly the minecraftCommandsReddit has a discord so if you go onto their discord and ask what is wrong with the command you have they will tell you exactly how to fix it... unless they are a jag.... but you could even ask on the reddit if you dont need the awnser immedialty.
+[Reddit](https://www.reddit.com/r/MinecraftCommands/) [Discord](https://discord.gg/%51AFXFtZ)
 
 ### Support or Contact
 
