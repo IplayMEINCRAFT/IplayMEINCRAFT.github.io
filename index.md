@@ -1,4 +1,4 @@
-## Welcome to IplayMEINCRAFT.github.io
+## Welcome to IplayMEINCRAFT
 
 Just to be a little sellout (because I need some money) go visit my youtube channel FurretDude where you will find lots of minecraft gaming videos. thanks and cya later =D - Furret
 
