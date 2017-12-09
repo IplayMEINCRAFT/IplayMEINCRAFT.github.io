@@ -6,9 +6,11 @@ Just to be a little sellout (because I need some money) go visit my youtube chan
 
 All of the commands for 1.12.x are listed below
 its as easy as pie! just copy a command and fill in the specified areas
+```markdown
 
- **/execute _(@ selector)_ ~ ~ ~ (command)**
-
+ **/execute _(@ selector)_ ~ ~ ~ _(command)_
+ /execute _(@ selector)_ ~ ~ ~ /detect _(block)_ _(coordinates ex: 0,0,0)_ _(command)_
+```
 
 ```markdown
 Syntax highlighted code block
